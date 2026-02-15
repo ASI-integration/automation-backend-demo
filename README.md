@@ -21,3 +21,5 @@ uvicorn app.main:app --reload
 
 docker build -t automation-backend-demo .
 docker run -p 8000:8000 automation-backend-demo
+✅ CI/CD with GitHub Actions  
+Automatic dependency install and import test on every push.
