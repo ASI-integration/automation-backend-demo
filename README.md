@@ -10,7 +10,8 @@ Demo backend automation system.
 - Docker
 
 ## Goal
-Showcase backend architecture, authentication, and CRUD patterns.
+## Goal
+Demonstrate a production-style backend with authentication, CRUD, and clean architecture patterns.
 
 Work in progress.
 ## Run locally
