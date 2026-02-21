@@ -1,3 +1,4 @@
+[![Python CI](https://github.com/ASI-integration/automation-backend-demo/actions/workflows/main.yml/badge.svg)](https://github.com/ASI-integration/automation-backend-demo/actions/workflows/main.yml)
 # StayAutomated
 
 Demo backend automation system.
