@@ -12,8 +12,6 @@ Demo backend automation system.
 ## Goal
 ## Goal
 Demonstrate a production-style backend with authentication, CRUD, and clean architecture patterns.
-
-Work in progress.
 ## Run locally
 
 pip install -r requirements.txt
